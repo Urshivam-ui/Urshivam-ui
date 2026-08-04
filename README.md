@@ -1,5 +1,5 @@
 # Hi there, I'm Jatin 👋 
-### Senior Full-Stack Engineer & Frontend Architect
+### Full-Stack developer 
 
 I specialize in building high-performance, real-time web applications, interactive canvas interfaces, and scalable system architectures. Passionate about clean code, modern UX design systems, and frontend optimizations.
 
