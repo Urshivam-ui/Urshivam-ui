@@ -1,4 +1,4 @@
-# Hi there, I'm Shivam 👋 
+# Hi there, I'm Jatin 👋 
 ### Senior Full-Stack Engineer & Frontend Architect
 
 I specialize in building high-performance, real-time web applications, interactive canvas interfaces, and scalable system architectures. Passionate about clean code, modern UX design systems, and frontend optimizations.
