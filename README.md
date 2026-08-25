@@ -68,4 +68,4 @@ A minimal, browser-based API testing client — a lighter-weight alternative to 
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jatin-verma-7554623a5/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://portfolio-fuxd.vercel.app/)
