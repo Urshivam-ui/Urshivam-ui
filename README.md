@@ -44,7 +44,7 @@ A lightweight, ad-free web player for streaming bhajans and aartis, built with z
 
 - **Stack:** HTML5, CSS3, Vanilla JavaScript (ES6+), YouTube iFrame API, LRCLIB API
 - **Highlights:** Smart search via public Invidious/Piped API instances, on-the-fly lyrics fetching, category filters, local favorites storage
-- 🔗 **Live:** _add your deployed link here_
+- 🔗 **Live:** [bhakti-music.vercel.app] (https://bhakti-music.vercel.app/)
 - 📦 **Repo:** [github.com/Urshivam-ui/Bhakti_Music](https://github.com/Urshivam-ui/Bhakti_Music)
 
 ### ⚡ [Postman Lite — Lightweight API Testing Tool](https://github.com/Urshivam-ui/Postman_Lite)
